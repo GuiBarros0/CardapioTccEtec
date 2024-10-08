@@ -1,0 +1,88 @@
+[
+  {
+    "Doces": [
+      {
+        "id": 1,
+        "nome": "Banana Caramelizada",
+        "descricao": "Banana suavemente caramelizada com um toque de açúcar mascavo e um leve toque de canela.",
+        "preco": "17.90",
+        "imagem": "./assets/bananaCaramelizada.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Torta de Morango com Glacê",
+        "descricao": "Deliciosa torta com base crocante e amanteigada, recheada com um generoso layer de morangos frescos e creme suave.",
+        "preco": "18.90",
+        "imagem": "./assets/tortaMorango1.jpg"
+      }
+    ]
+  },
+  {
+    "cupcakes": [
+      {
+        "id": 1,
+        "nome": "Cupcake Morango",
+        "descricao": "Massa fofinha de baunilha, coberta com um generoso creme de morango e finalizada com pedacinhos frescos da fruta.",
+        "preco": "14.90",
+        "imagem": "./assets/cupcakeMorango.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Cupcake Cereja",
+        "descricao": "Massa delicada de baunilha, coberta com um creme suave e doce de morango, decorada com pedacinhos de cereja.",
+        "preco": "14.90",
+        "imagem": "./assets/cupcakeCereja.jpg"
+      }
+    ]
+  },
+  {
+    "bolos": [
+      {
+        "id": 1,
+        "nome": "Mini Bolo Morango",
+        "descricao": "Pequena maravilha de massa fofinha e úmida, recheada com creme de morango e camadas generosas de purê de morango.",
+        "preco": "21.90",
+        "imagem": "./assets/boloMini.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Fatia Bolo Morango",
+        "descricao": "Deliciosa fatia de bolo, com camadas leves e úmidas, intercaladas com um rico creme de morango..",
+        "preco": "12.90",
+        "imagem": "./assets/fatiaMorango.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "Bolo Grande de Morango",
+        "descricao": "Uma extravagância de sabor com camadas generosas de bolo fofo e úmido, repletas de morangos frescos e suculentos.",
+        "preco": "34.90",
+        "imagem": "./assets/boloGrande.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Bolo Morango de Festa",
+        "descricao": "Deslumbrante bolo festivo com camadas de massa macia e saborosa, intercaladas com um recheio generoso de morangos.",
+        "preco": "64.90",
+        "imagem": "./assets/boloFestivo.jpg"
+      }
+    ]
+  },
+  {
+    "bebidas": [
+      {
+        "id": 1,
+        "nome": "Coca Lata",
+        "descricao": "",
+        "preco": "6.00",
+        "imagem": "./assets/refriCoca.png"
+      },
+      {
+        "id": 2,
+        "nome": "Guaraná Lata",
+        "descricao": "",
+        "preco": "6.00",
+        "imagem": "./assets/refriGuarana.png"
+      }
+    ]
+  }
+]
